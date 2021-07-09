@@ -1,6 +1,11 @@
 # Hello, my name is Luis Baez
 ### Freelance full-stack Desktop & Android engineer 👋
 
+![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+
+I am passionate about programming and creating software for mobile platforms and computers. Mainly focused on the quality of the software. Learning and working with the latest technologies.
+
+[**Mack Software**](https://luisbaez.tk/)
 
 
 

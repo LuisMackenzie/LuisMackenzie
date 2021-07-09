@@ -5,12 +5,13 @@
 
 
 ## Skills:
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androidauto&logoColor=white&labelColor=101010)]()
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-red?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 </br>
 [![Android_Studio](https://img.shields.io/badge/-Android%20Studio-orange?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![IntelliJ IDEA](https://img.shields.io/badge/-intelliJ-purple?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
+[![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-lightblue?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()

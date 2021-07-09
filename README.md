@@ -1,5 +1,5 @@
 # Hello, my name is Luis Baez
-### Hi there 👋
+### Freelance full-stack Desktop & Android engineer 👋
 
 
 

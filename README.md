@@ -32,8 +32,8 @@ And more...
 ## Find me at:
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-@luis_mackenzie-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/luis_mackenzie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Baez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luis-jorge-baez-72305075/)
+[![Twitter](https://img.shields.io/badge/Twitter-@luis_baez-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/luis_mackenzie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@Luis_Baez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luis-jorge-baez-72305075/)
 </br>
 [![Web](https://img.shields.io/badge/My_Website-LuisBaez.tk-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://luisbaez.tk/)
 </br>

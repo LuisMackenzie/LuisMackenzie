@@ -25,7 +25,7 @@ I am passionate about programming and creating software for mobile platforms and
 </br>
 [![Hibernate](https://img.shields.io/badge/hibernate-grey?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=101010)]()
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-orange?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)]()
-[![Spring](https://img.shields.io/badge/spring-47A248?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
+[![Spring](https://img.shields.io/badge/spring-greenlight?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
 </br>
 And more...
 

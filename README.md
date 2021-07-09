@@ -38,6 +38,10 @@ And more...
 [![Web](https://img.shields.io/badge/My_Website-LuisBaez.tk-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://luisbaez.tk/)
 </br>
 
+## Contact me:
+
+[![Email](https://img.shields.io/badge/canetphones@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:canetphones@gmail.com)
+
 <!--
 **LuisMackenzie/LuisMackenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

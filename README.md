@@ -1,4 +1,4 @@
-# ![https://luisbaez.tk](https://github.com/LuisMackenzie/LuisMackenzie/blob/main/emoji.png) Hello, my name is Luis Baez
+# ![https://luisbaez.tk](https://github.com/LuisMackenzie/LuisMackenzie/blob/main/emoji2.png) Hello, my name is Luis Baez
 # Hello, my name is Luis Baez
 ### Freelance full-stack Desktop & Android engineer 👋
 

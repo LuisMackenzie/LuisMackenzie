@@ -19,7 +19,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 </br>
 
-[![IntelliJ IDEA](https://img.shields.io/badge/-intelliJ-blue?style=for-the-badge&logo=intellijidea)]()
+[![IntelliJ IDEA](https://img.shields.io/badge/-intelliJ-blue?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
 
 </br>
 And more...

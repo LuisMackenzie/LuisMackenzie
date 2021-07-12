@@ -18,8 +18,6 @@ I am passionate about programming and creating software for mobile platforms and
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 </br>
 [![Hibernate](https://img.shields.io/badge/hibernate-grey?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=101010)]()
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-orange?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)]()
@@ -67,4 +65,11 @@ Here are some ideas to get you started:
 </br>
 [![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
 [![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
+</br>
+[![Hibernate](https://img.shields.io/badge/hibernate-grey?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=101010)]()
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-orange?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)]()
+[![Spring](https://img.shields.io/badge/spring-greenlight?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
+</br>
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 -->

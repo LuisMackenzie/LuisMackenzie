@@ -12,7 +12,6 @@ I am passionate about programming and creating software for mobile platforms and
 </br>
 [![Android_Studio](https://img.shields.io/badge/-Android%20Studio-orange?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![IntelliJ IDEA](https://img.shields.io/badge/-intelliJ-purple?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
-[![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-lightblue?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
@@ -69,4 +68,8 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+</br>
+[![Android_Studio](https://img.shields.io/badge/-Android%20Studio-orange?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![IntelliJ IDEA](https://img.shields.io/badge/-intelliJ-purple?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
+[![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-lightblue?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 -->

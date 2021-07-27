@@ -23,11 +23,13 @@ And more...
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-@luis_baez-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/luis_mackenzie)
+[![Twitter Follow](https://img.shields.io/twitter/follow/LuisBaez?style=social)](https://twitter.com/luis_mackenzie)
+</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Luis_Baez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luis-jorge-baez-72305075/)
 </br>
 [![Web](https://img.shields.io/badge/My_Website-LuisBaez.tk-green?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://luisbaez.tk/)
 </br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/LuisBaez?style=social)](https://twitter.com/luis_mackenzie)
+
 ![GitHub Followers](https://img.shields.io/github/followers/LuisMackenzie?style=social)
 
 ## Contact me:

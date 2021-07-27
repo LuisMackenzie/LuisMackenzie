@@ -27,7 +27,7 @@ And more...
 </br>
 [![Web](https://img.shields.io/badge/My_Website-LuisBaez.tk-green?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://luisbaez.tk/)
 </br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/luis_mackenzie)
+[![Twitter Follow](https://img.shields.io/twitter/follow/LuisBaez?style=social)](https://twitter.com/luis_mackenzie)
 ![GitHub Followers](https://img.shields.io/github/followers/LuisMackenzie?style=social)
 
 ## Contact me:

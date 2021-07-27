@@ -24,20 +24,19 @@ And more...
 
 [![Twitter](https://img.shields.io/badge/Twitter-@luis_baez-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/luis_mackenzie)
 </br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/LuisBaez?style=social)](https://twitter.com/luis_mackenzie)
-</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Luis_Baez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luis-jorge-baez-72305075/)
 </br>
 [![Web](https://img.shields.io/badge/My_Website-LuisBaez.tk-green?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://luisbaez.tk/)
 </br>
 [![Web](https://img.shields.io/badge/Luis-Mackenzie-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/LuisMackenzie)
-</br>
-![GitHub Followers](https://img.shields.io/github/followers/LuisMackenzie?style=social)
 
 ## Contact me:
 
 [![Email](https://img.shields.io/badge/canetphones@gmail.com-my_personal_email-orange?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:canetphones@gmail.com)
-
+</br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/LuisBaez?style=social)](https://twitter.com/luis_mackenzie)
+</br>
+![GitHub Followers](https://img.shields.io/github/followers/LuisMackenzie?style=social)
 
 ### Created By [**Mack Software**](https://luisbaez.tk)
 

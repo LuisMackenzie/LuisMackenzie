@@ -26,7 +26,7 @@ And more...
 </br>
 [![Web](https://img.shields.io/badge/My_Website-LuisBaez.tk-green?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://luisbaez.tk/)
 </br>
-[![Web](https://img.shields.io/badge/Luis-Github-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/LuisMackenzie)
+[![Web](https://img.shields.io/badge/Luis-Github_Projects-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/LuisMackenzie)
 
 ## Contact me:
 

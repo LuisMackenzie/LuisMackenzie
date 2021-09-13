@@ -16,6 +16,8 @@ I am passionate about programming and creating software for mobile platforms and
 [![Spring](https://img.shields.io/badge/spring-greenlight?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-orange?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)]()
 </br>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![SQLite](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 And more...
 
 ## Find me at:

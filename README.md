@@ -14,6 +14,8 @@ I am passionate about programming and creating software for mobile platforms and
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-orange?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![Spring](https://img.shields.io/badge/spring-greenlight?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-orange?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)]()
 </br>
 And more...
 

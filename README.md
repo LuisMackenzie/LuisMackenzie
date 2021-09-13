@@ -11,6 +11,7 @@ I am passionate about programming and creating software for mobile platforms and
 </br>
 [![Android_Studio](https://img.shields.io/badge/-Android%20Studio-orange?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![IntelliJ IDEA](https://img.shields.io/badge/-intelliJ-purple?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-orange?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 </br>

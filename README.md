@@ -18,6 +18,7 @@ I am passionate about programming and creating software for mobile platforms and
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQLite](https://img.shields.io/badge/SQLite-4479A1?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
+</br>
 And more...
 
 ## Find me at:

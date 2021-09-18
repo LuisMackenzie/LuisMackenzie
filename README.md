@@ -1,4 +1,4 @@
-# Hello ![https://luisbaez.tk](https://github.com/LuisMackenzie/LuisMackenzie/blob/main/tux.png) , my name is Luis Baez
+# Hello ![https://luisbaez.tk](https://github.com/LuisMackenzie/LuisMackenzie/blob/main/tux.png) , I´m Luis Baez
 ### Android Software Developer 👋
 
 I am passionate about programming and creating software for mobile platforms and computers. Mainly focused on the quality of the software. Learning and working with the latest technologies.

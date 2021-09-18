@@ -28,7 +28,7 @@ And more...
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Luis_Baez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luis-jorge-baez-72305075/)
 </br>
-[![Web](https://img.shields.io/badge/My_Website-LuisBaez.tk-green?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://luisbaez.tk/)
+[![Web](https://img.shields.io/badge/Portfolio-LuisBaez.tk-green?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://luisbaez.tk/)
 </br>
 [![Web](https://img.shields.io/badge/Luis-Github_Projects-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/LuisMackenzie?tab=repositories)
 

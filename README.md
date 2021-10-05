@@ -39,7 +39,7 @@ And more...
 </br>
 ![GitHub Followers](https://img.shields.io/github/followers/LuisMackenzie?style=social)
 
-### Created By [**Mack Software**](https://luisbaez.tk)
+### Created By [**Android Dev**](https://luisbaez.tk)
 
 <!--
 **LuisMackenzie/LuisMackenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -43,10 +43,10 @@ And more...
 [![Twitter Follow](https://img.shields.io/twitter/follow/LuisBaez?style=social)](https://twitter.com/luis_mackenzie)
 </br>
 ![GitHub Followers](https://img.shields.io/github/followers/LuisMackenzie?style=social)
-
-### Created By [**Android Dev**](https://luisbaez.tk)
-
+</br>
 ![](https://github-readme-stats.vercel.app/api?username=LuisMackenzie&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=30)
+</br>
+### Created By [**Android Dev**](https://luisbaez.tk)
 
 <!--
 **LuisMackenzie/LuisMackenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -41,10 +41,10 @@ And more...
 
 ### Created By [**Android Dev**](https://luisbaez.tk)
 
-<p align="center">
-  ### Created By <a href="https://luisbaez.tk/"><img src="https://user-images.githubusercontent.com/11560987/104071827-9122f700-51cf-11eb-9350-e259563b00ba.png" height="50" width="130" alt="Android Dev"></a>
+### Created By <a href="https://luisbaez.tk/"><img src="https://user-images.githubusercontent.com/11560987/104071827-9122f700-51cf-11eb-9350-e259563b00ba.png" height="50" width="130" alt="Android Dev"></a>
 
-</p>
+
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=LuisMackenzie&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=30)

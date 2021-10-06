@@ -41,6 +41,12 @@ And more...
 
 ### Created By [**Android Dev**](https://luisbaez.tk)
 
+<p align="center">
+<a href="https://luisbaez.tk/"><img src="https://user-images.githubusercontent.com/11560987/104071827-9122f700-51cf-11eb-9350-e259563b00ba.png" height="50" width="130" alt="Website"></a><a href="https://medium.com/@syombuamadona"><img src="https://user-images.githubusercontent.com/11560987/104072455-e3184c80-51d0-11eb-947a-64481b121f12.png" height="50" width="130" alt="Medium"></a>
+
+</p>
+
+
 ![](https://github-readme-stats.vercel.app/api?username=LuisMackenzie&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=30)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMackenzie&layout=compact&theme=radical)](https://github.com/LuisMackenzie?tab=repositories)

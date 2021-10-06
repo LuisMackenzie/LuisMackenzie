@@ -18,9 +18,10 @@ I am passionate about programming and creating software for mobile platforms and
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQLite](https://img.shields.io/badge/SQLite-4479A1?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
 </br>
-And more...
-</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMackenzie&layout=compact&theme=radical)](https://github.com/LuisMackenzie?tab=repositories)
+</br>
+</br>
+And more...
 </br>
 
 ## Find me at:

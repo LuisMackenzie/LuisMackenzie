@@ -38,7 +38,7 @@ And more...
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/canetphones@gmail.com-my_personal_email-orange?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:canetphones@gmail.com)
+[![Email](https://img.shields.io/badge/canetphones@gmail.com-my_personal_email-e07e81?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:canetphones@gmail.com)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Luis_Baez-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luis-jorge-baez-72305075/)
 </br>

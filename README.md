@@ -13,7 +13,7 @@ I am passionate about programming and creating software for mobile platforms and
 [![Android_Studio](https://img.shields.io/badge/-Android%20Studio-orange?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![IntelliJ IDEA](https://img.shields.io/badge/-intelliJ-purple?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
 </br>
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![Firebase](https://img.shields.io/badge/Firebase-ffcb2d?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Retrofit](https://img.shields.io/badge/Retrofit-48b983?style=for-the-badge&logo=square&logoColor=white&labelColor=101010)]()
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()

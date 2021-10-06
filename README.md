@@ -16,8 +16,8 @@ I am passionate about programming and creating software for mobile platforms and
 [![Firebase](https://img.shields.io/badge/Firebase-ffcb2d?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Retrofit](https://img.shields.io/badge/Retrofit-48b983?style=for-the-badge&logo=square&logoColor=white&labelColor=101010)]()
 </br>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![SQLite](https://img.shields.io/badge/SQLite-4479A1?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-00618a?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![SQLite](https://img.shields.io/badge/SQLite-87c1ed?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
 </br>
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMackenzie&layout=compact&theme=radical)](https://github.com/LuisMackenzie?tab=repositories)

@@ -28,7 +28,7 @@ And more...
 ## Find me at:
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-@luis_baez-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/luis_mackenzie)
+[![Twitter](https://img.shields.io/badge/Twitter-@luis_baez-7a70e2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/luis_mackenzie)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Luis_Baez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luis-jorge-baez-72305075/)
 </br>

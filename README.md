@@ -40,10 +40,6 @@ And more...
 
 [![Email](https://img.shields.io/badge/canetphones@gmail.com-my_personal_email-orange?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:canetphones@gmail.com)
 </br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/LuisBaez?style=social)](https://twitter.com/luis_mackenzie)
-</br>
-![GitHub Followers](https://img.shields.io/github/followers/LuisMackenzie?style=social)
-</br>
 
 ## Profile data:
 
@@ -90,4 +86,14 @@ Here are some ideas to get you started:
 [![Android_Studio](https://img.shields.io/badge/-Android%20Studio-orange?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![IntelliJ IDEA](https://img.shields.io/badge/-intelliJ-purple?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
 [![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-lightblue?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
+
+## Contact me:
+
+[![Email](https://img.shields.io/badge/canetphones@gmail.com-my_personal_email-orange?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:canetphones@gmail.com)
+</br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/LuisBaez?style=social)](https://twitter.com/luis_mackenzie)
+</br>
+![GitHub Followers](https://img.shields.io/github/followers/LuisMackenzie?style=social)
+</br>
+
 -->

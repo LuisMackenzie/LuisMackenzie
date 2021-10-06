@@ -20,8 +20,6 @@ I am passionate about programming and creating software for mobile platforms and
 </br>
 And more...
 
-![](https://github-readme-stats.vercel.app/api?username=LuisMackenzie&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=30)
-
 ## Find me at:
 
 
@@ -42,6 +40,10 @@ And more...
 ![GitHub Followers](https://img.shields.io/github/followers/LuisMackenzie?style=social)
 
 ### Created By [**Android Dev**](https://luisbaez.tk)
+
+![](https://github-readme-stats.vercel.app/api?username=LuisMackenzie&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=30)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMackenzie&layout=compact&theme=radical)](https://github.com/LuisMackenzie?tab=repositories)
 
 <!--
 **LuisMackenzie/LuisMackenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

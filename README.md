@@ -11,7 +11,7 @@ I am passionate about programming and creating software for mobile platforms and
 [![Kotlin](https://img.shields.io/badge/Kotlin-red?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 </br>
 [![Android_Studio](https://img.shields.io/badge/-Android%20Studio-orange?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-[![IntelliJ IDEA](https://img.shields.io/badge/-intelliJ-purple?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
+[![IntelliJ IDEA](https://img.shields.io/badge/-intelliJ-fe315d?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-ffcb2d?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Retrofit](https://img.shields.io/badge/Retrofit-48b983?style=for-the-badge&logo=square&logoColor=white&labelColor=101010)]()

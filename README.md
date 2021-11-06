@@ -14,7 +14,6 @@ I am passionate about programming and creating software for mobile platforms and
 [![IntelliJ IDEA](https://img.shields.io/badge/intelliJ-fe315d?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-ffcb2d?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Retrofit](https://img.shields.io/badge/Retrofit-48b983?style=for-the-badge&logo=square&logoColor=white&labelColor=101010)]()
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-00618a?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQLite](https://img.shields.io/badge/SQLite-87c1ed?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
@@ -80,6 +79,7 @@ Here are some ideas to get you started:
 [![Spring](https://img.shields.io/badge/spring-greenlight?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Retrofit](https://img.shields.io/badge/Retrofit-48b983?style=for-the-badge&logo=square&logoColor=white&labelColor=101010)]()
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()

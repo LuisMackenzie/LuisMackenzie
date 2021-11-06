@@ -14,7 +14,6 @@ I am passionate about programming and creating software for mobile platforms and
 [![IntelliJ IDEA](https://img.shields.io/badge/intelliJ-fe315d?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-ffcb2d?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-</br>
 [![MySQL](https://img.shields.io/badge/MySQL-00618a?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQLite](https://img.shields.io/badge/SQLite-87c1ed?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
 </br>
